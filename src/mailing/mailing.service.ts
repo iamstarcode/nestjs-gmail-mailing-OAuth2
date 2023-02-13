@@ -50,7 +50,7 @@ export class MailingService {
     this.mailerService
       .sendMail({
         transporterName: 'gmail',
-        to: 'murphybiola007@gmail.com', // list of receivers
+        to: 'dummy-reciever@gmail.com', // list of receivers
         from: 'noreply@nestjs.com', // sender address
         subject: 'Verficiaction Code', // Subject line
         template: 'action',
