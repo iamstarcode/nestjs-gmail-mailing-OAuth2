@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "de796087-f071-427f-8d69-3b0e0d918436",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:8000/mailing/send-mail",
+    "url": "localhost:8000/mailing/send-mail",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-02-06T15:20:36.710Z",
+    "modified": "2023-02-06T15:20:36.710Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
